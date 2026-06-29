@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+librosa
+soundfile
+scikit-learn
+joblib
+plotly
+sqlalchemy
