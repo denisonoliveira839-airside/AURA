@@ -1,0 +1,21 @@
+AURA_AI/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── database/
+│   └── banco.db
+│
+├── audios/
+│
+├── modelos/
+│
+├── treinamento/
+│
+├── utils/
+│
+└── pages/
+    ├── 1_Historico.py
+    ├── 2_Treinamento.py
+    └── 3_Configuracoes.py
